@@ -1,0 +1,13 @@
+# Ignore all files by default.
+*
+
+# Traverse folders and include Markdown notes at any depth.
+!*/
+!*.md
+
+# Keep these rules in the repository.
+!.gitignore
+
+# Exclude Obsidian settings and deleted notes.
+.obsidian/
+.trash/
