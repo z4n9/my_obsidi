@@ -8,6 +8,3 @@
 # Keep these rules in the repository.
 !.gitignore
 
-# Exclude Obsidian settings and deleted notes.
-.obsidian/
-.trash/
